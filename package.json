@@ -1,7 +1,7 @@
 {
-  "name": "TindungHd",
+  "name": "GPS HdBank",
   "version": "1.0.0",
-  "description": "TindungHd - Remote Android Managment Suite",
+  "description": "GPS HdBank - Remote Android Managment Suite",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
